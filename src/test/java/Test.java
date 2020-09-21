@@ -14,7 +14,7 @@ public class Test {
         AUD(2),
         CAD(3),
         DKK(4);
-
+    // Testuji GitHub
         private final int row;
 
         Currencies (final int newRow){
