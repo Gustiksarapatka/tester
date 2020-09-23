@@ -30,7 +30,7 @@ public class Test {
         Currencies currency = Currencies.EUR;
 
         System.setProperty("webdriver.chrome.driver", "D:\\Google disk\\Java\\chromedriver.exe");
-        // Nutno si nastavit svou cestu k chromedriver.exe
+
 
         WebDriver webDriver = new ChromeDriver();
         webDriver.navigate().to("https://www.sberbank.cz");
